@@ -1,4 +1,4 @@
-#FROM
+#FROM    Обратите внимание, что python:2.7-stretch более недоступен, используйте python:3.6
 #USER
 # uWSGI:
 RUN pip install uwsgi
